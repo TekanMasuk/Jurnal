@@ -9,7 +9,7 @@ public class Jurnal {
 public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	System.out.print"Angka	: ";
-	int angka=input.next.int();
+	int angka=input.nextInt();
 	int a;
 	int b;
 	
