@@ -10,8 +10,8 @@ public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	System.out.print"Angka	: ";
 	int angka=input.nextInt();
-	int a;
-	int b;
+	int a=0;
+	int b=1;
 	
 	for (int i=0;i<input;i++) {
 
